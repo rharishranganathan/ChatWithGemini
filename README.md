@@ -1,7 +1,3 @@
-Here is the updated README file with the mention in the introduction:
-
----
-
 # ChatWithGemini
 
 This project demonstrates how to build a knowledge-based assistant using SwiftUI and Google Gemini APIs. The app can respond to user queries by integrating the Google Gemini API. This implementation is based on Etisha Garg's project to learn how to integrate the Gemini API with SwiftUI.
